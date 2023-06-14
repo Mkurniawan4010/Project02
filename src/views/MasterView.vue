@@ -136,7 +136,7 @@
                                     <div class="col-md-8">
                                         <div class="content">
                                             <h2 data-animation="animated fadeInUp">Buffet</h2>
-                                            <h1 data-animation="animated slideInLeft">Official Packages</h1>
+                                            <h1 data-animation="animated slideInLeft">Wawan Ganteng Bet</h1>
                                             <div class="lists" data-animation="animated slideInUp">
                                                 <ul>
                                                     <li>
@@ -166,7 +166,7 @@
                                     <div class="col-md-8">
                                         <div class="content">
                                             <h2 data-animation="animated fadeInUp">Buffet</h2>
-                                            <h1 data-animation="animated slideInLeft">Student Packages</h1>
+                                            <h1 data-animation="animated slideInLeft">Ardi Poke Banget</h1>
                                             <div class="lists" data-animation="animated slideInUp">
                                                 <ul>
                                                     <li>
@@ -196,7 +196,7 @@
                                     <div class="col-md-8">
                                         <div class="content">
                                             <h2 data-animation="animated fadeInUp">Buffet</h2>
-                                            <h1 data-animation="animated slideInLeft">Family Packages</h1>
+                                            <h1 data-animation="animated slideInLeft">Dewa Suka Coklat Cloude</h1>
                                             <div class="lists" data-animation="animated slideInUp">
                                                 <ul>
                                                     <li>
@@ -246,8 +246,8 @@
             <div class="row">
                 <div class="about-items">
                     <div class="col-md-7 info">
-                        <h3>Our Story</h3>
-                        <h2>Until I discovered cooking I was never<br> really interested in anything</h2>
+                        <h3>Our Story About Wawan Restaurant</h3>
+                        <h2>Sebelum Saya Mengenal Dunia Dapur Saya Bukanlah Siapa Siapa "Ardi Ganteng 78"</h2>
                         <p>
                             Pleased anxious or as in by viewing forbade minutes prevent. Too leave had those get being led weeks blind. Had men rose from down lady able. Its son him ferrars proceed six parlors.
                         </p>
@@ -423,7 +423,7 @@
                                             </div>
                                         </div>
                                         <div class="info">
-                                            <h4><a href="#">Crispy Crust Pizzeria</a></h4>
+                                            <h4><a href="#">Pecel Lele Spesial</a></h4>
                                             <span>Mutton / Olive Oil / Salt</span>
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
@@ -447,7 +447,7 @@
                                             </div>
                                         </div>
                                         <div class="info">
-                                            <h4><a href="#">Luger Burger</a></h4>
+                                            <h4><a href="#">Ikan Gurame Bakar</a></h4>
                                             <span>Beef / Olive Oil / Salt</span>
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
@@ -471,7 +471,7 @@
                                             </div>
                                         </div>
                                         <div class="info">
-                                            <h4><a href="#">Fries McDonald's</a></h4>
+                                            <h4><a href="#">Ayam Gulai</a></h4>
                                             <span>Chicken / Olive Oil / Salt</span>
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
@@ -495,7 +495,7 @@
                                             </div>
                                         </div>
                                         <div class="info">
-                                            <h4><a href="#">Chicken Popeyes</a></h4>
+                                            <h4><a href="#">Nasi Goreng Palembang</a></h4>
                                             <span>Mutton / Olive Oil / Salt</span>
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
@@ -519,7 +519,7 @@
                                             </div>
                                         </div>
                                         <div class="info">
-                                            <h4><a href="#">Chicken Sandwich</a></h4>
+                                            <h4><a href="#">Iga Bakar</a></h4>
                                             <span>Chicken / Olive Oil / Salt</span>
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
@@ -543,7 +543,7 @@
                                             </div>
                                         </div>
                                         <div class="info">
-                                            <h4><a href="#">Salmon Steak</a></h4>
+                                            <h4><a href="#">Steak H5</a></h4>
                                             <span>Beef / Olive Oil / Salt</span>
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
@@ -637,7 +637,7 @@
                             </div>
                             <div class="info">
                                 <div class="overlay">
-                                    <h4>Jessica Jones</h4>
+                                    <h4>Ardi Al Gifari</h4>
                                     <span>chef</span>
                                 </div>
                                 <div class="content">
@@ -671,7 +671,7 @@
                             </div>
                             <div class="info">
                                 <div class="overlay">
-                                    <h4>Ahel Natasha</h4>
+                                    <h4>M. Kurniawan</h4>
                                     <span>Patissier</span>
                                 </div>
                                 <div class="content">
@@ -757,21 +757,21 @@
                     <div class="testimonial-items testimonials-carousel owl-carousel owl-theme text-center">
                         <!-- Single Item -->
                         <div class="item">
-                            <h4>Delicious Burger</h4>
+                            <h4>Pecel Lele Spesial</h4>
                             <p>
-                                Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
+                                Mengapa saya tidak menemukan tempat ini sejak awal disini sangat nyaman apalagi Memakan masakan Bang Ardi. 
                             </p>
                             <div class="thumb">
                                 <img src="assets/img/100x100.png" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
-                                <h5>Ahel John</h5>
+                                <h5>M. Zaki</h5>
                                 <div class="rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>     
                                     <i class="fas fa-star"></i>
                                 </div>
                             </div>
@@ -779,16 +779,16 @@
                         <!-- End Single Item -->
                         <!-- Single Item -->
                         <div class="item">
-                            <h4>Awesome pizza</h4>
+                            <h4>Pecel Lele Spesial</h4>
                             <p>
-                                Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
+                                Makananya Sangat Enak Recomend Deh Makan Disini Apalagi Dilayani Oleh Ardi Sipelayan Ngawi. 
                             </p>
                             <div class="thumb">
                                 <img src="assets/img/100x100.png" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
-                                <h5>Michel Athem</h5>
+                                <h5>Dewa</h5>
                                 <div class="rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -801,16 +801,16 @@
                         <!-- End Single Item -->
                         <!-- Single Item -->
                         <div class="item">
-                            <h4>Delicious Burger</h4>
+                            <h4>Iga Bakar</h4>
                             <p>
-                                Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
+                                Sangatlah Puas Dengan Hidangan Yang DiSajikan Oleh Chef Ardi Dengan Atraksi Topeknya. 
                             </p>
                             <div class="thumb">
                                 <img src="assets/img/100x100.png" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
-                                <h5>Ahel John</h5>
+                                <h5>Agus Dwipa Sofian</h5>
                                 <div class="rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
